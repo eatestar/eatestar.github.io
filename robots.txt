@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eatestar.github.io/sitemap
+Sitemap: https://eatestar.github.io/app/sitemap
+Sitemap: https://eatestar.github.io/assets/sitemap
+Sitemap: https://eatestar.github.io/css/sitemap
+Sitemap: https://eatestar.github.io/includes/sitemap
+Sitemap: https://eatestar.github.io/item/sitemap
+Sitemap: https://eatestar.github.io/src/sitemap
